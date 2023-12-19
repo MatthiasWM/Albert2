@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/build
+/data/717006.aif
+/data/717006.rex
+/data/DDIncludes
+
+
